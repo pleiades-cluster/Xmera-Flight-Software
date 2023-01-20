@@ -1,0 +1,3 @@
+Adafruit CircuitPython 7.2.2 on 2022-03-15; PyCubedv05 with samd51j19
+Board ID:pycubed_v05
+boot.py output:
